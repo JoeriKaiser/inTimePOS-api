@@ -1,4 +1,4 @@
-# InTime. Open Source Restaurant POS System
+# InTime :fork_and_knife: Open Source Restaurant POS System
 
 ### DISCLAIMER: This is a work in progress. Any upcoming features might not yet be listed or implemented
 
