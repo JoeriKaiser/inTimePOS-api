@@ -29,3 +29,6 @@ This is a Point of Sale (POS) system for restaurants, designed to streamline ord
 ## Getting Started
 
 Setup instructions will be updated upon first version release
+
+## Contributing
+Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue.
